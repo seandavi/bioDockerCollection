@@ -4,3 +4,6 @@
 [submodule "GenomicParisCentre-Docker"]
 	path = GenomicParisCentre-Docker
 	url = https://github.com/GenomicParisCentre/dockerfiles
+[submodule "alexcoppe-Docker"]
+	path = alexcoppe-Docker
+	url = https://github.com/alexcoppe/bio-dockers
