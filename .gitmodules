@@ -1,0 +1,6 @@
+[submodule "GGR-Docker"]
+	path = GGR-Docker
+	url = https://github.com/Duke-GCB/GGR-Docker
+[submodule "GenomicParisCentre-Docker"]
+	path = GenomicParisCentre-Docker
+	url = https://github.com/GenomicParisCentre/dockerfiles
