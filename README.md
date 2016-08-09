@@ -10,5 +10,7 @@ To get at the collection, do the following:
 
 ```
 git clone https://github.com/seandavi/bioDockerCollection
+cd bioDockerCollection
 git submodule init
+git submodule update
 ```
