@@ -24,5 +24,3 @@ RUN curl -L 'http://downloads.sourceforge.net/project/lofreq/lofreq_star-2.1.2_l
 RUN tar -xvzf lofreq_star-2.1.2_linux-x86-64.tgz
 
 RUN cp lofreq_star-2.1.2/bin/* /usr/local/bin/
-
-ENTRYPOINT /bin/bash
