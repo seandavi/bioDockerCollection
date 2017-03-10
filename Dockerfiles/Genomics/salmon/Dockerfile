@@ -48,4 +48,4 @@ RUN tar -xvzf Salmon-0.8.1_linux_x86_64.tar.gz
 
 
 
-RUN ln -s /opt/Salmon-0.7.2_linux_x86_64/bin/salmon /usr/bin/salmon
+RUN ln -s /opt/Salmon-0.8.1_linux_x86_64/bin/salmon /usr/bin/salmon
