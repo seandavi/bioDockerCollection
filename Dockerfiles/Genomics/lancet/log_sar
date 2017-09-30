@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+command -v /usr/lib/sysstat/debian-sa1 > /dev/null && /usr/lib/sysstat/debian-sa1 1 1
+sleep 1
+done
